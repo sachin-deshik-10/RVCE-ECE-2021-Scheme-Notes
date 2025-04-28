@@ -34,7 +34,7 @@ Additionally, you can find:
 - 🛠️ **VLSI Design**  
 - 🌐 **Computer Networks**  
 - ⚡ **Deep Learning**  
-- 💻 **Machine Learning & AI Basics**  
+- 💻 **Communication Systems I - II**  
 - ➕ ...and many more **core and elective subjects!**
 
 Each subject folder typically contains:  
