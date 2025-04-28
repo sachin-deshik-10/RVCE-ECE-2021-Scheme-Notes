@@ -14,8 +14,13 @@ These notes cover the **latest 2021 curriculum** and are organized for **easy ac
 
 ## 📂 **Access the Notes**
 
-🔗 **[Google Drive Link](#)**  
-All notes are structured **semester-wise** and **subject-wise** for quick reference.
+🔗 **[Google Drive Link](https://drive.google.com/drive/folders/159WVDa0zXUOzs4SYY5Vef9Dr3N22NVHb?usp=sharing)**  
+All notes are structured **semester-wise** and **subject-wise** for quick reference.  
+
+Additionally, you can find:  
+- Lecture slides  
+- Important exam preparation materials  
+- Quick revision guides  
 
 ---
 
@@ -44,7 +49,8 @@ Each subject folder typically contains:
 
 - 📥 **Download** and use these notes for your studies.  
 - ✍️ **Suggest improvements** or **report broken links** by opening an issue.  
-- 🚀 **Contribute new notes** or updates by raising a pull request.
+- 🚀 **Contribute new notes** or updates by raising a pull request.  
+- ⭐ **Star this repository** to help others discover it!
 
 ---
 
