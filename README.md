@@ -1,69 +1,72 @@
-📚 RVCE ECE 2021 Scheme Notes
-Complete notes and resources for Electronics and Communication Engineering (ECE) students (2021 Scheme) at R.V. College of Engineering, Bengaluru.
+# 📚 **RVCE ECE 2021 Scheme Notes**
 
-✨ About
-Welcome to the RVCE ECE 2021 Scheme Notes Repository!
-This repository contains a collection of detailed notes for all semesters, compiled to help fellow students in their academic journey.
-These notes cover the latest 2021 curriculum and are organized for easy access and learning.
+Complete notes and resources for **Electronics and Communication Engineering (ECE)** students (2021 Scheme) at **R.V. College of Engineering, Bengaluru**.
 
-📂 Access the Notes
-🔗 Google Drive Link:
+---
 
-All notes are structured semester-wise and subject-wise for quick reference.
+## ✨ **About**
 
-📋 Contents Covered
-🧮 Mathematics (I, II, III)
+Welcome to the **RVCE ECE 2021 Scheme Notes Repository**!  
+This repository contains a collection of **detailed notes for all semesters**, compiled to help fellow students in their academic journey.  
+These notes cover the **latest 2021 curriculum** and are organized for **easy access and learning**.
 
-📡 Electronic Devices & Communication Systems
+---
 
-🔥 Digital System Design
+## 📂 **Access the Notes**
 
-🔄 Signals and Systems
+🔗 **[Google Drive Link](#)**  
+All notes are structured **semester-wise** and **subject-wise** for quick reference.
 
-🖥️ Microcontrollers and Embedded Systems
+---
 
-🛠️ VLSI Design
+## 📋 **Contents Covered**
 
-🌐 Computer Networks
+- 🧮 **Mathematics (I, II, III)**  
+- 📡 **Electronic Devices & Communication Systems**  
+- 🔥 **Digital System Design**  
+- 🔄 **Signals and Systems**  
+- 🖥️ **Microcontrollers and Embedded Systems**  
+- 🛠️ **VLSI Design**  
+- 🌐 **Computer Networks**  
+- ⚡ **Power Electronics**  
+- 💻 **Machine Learning & AI Basics**  
+- ➕ ...and many more **core and elective subjects!**
 
-⚡ Power Electronics
+Each subject folder typically contains:  
+- **Lecture Notes**  
+- **Important Questions**  
+- **Reference Material**  
+- **Exam Preparation Guides**
 
-💻 Machine Learning & AI Basics
+---
 
-➕ and many more core and elective subjects!
+## 🤝 **How You Can Contribute**
 
-Each subject folder typically contains:
+- 📥 **Download** and use these notes for your studies.  
+- ✍️ **Suggest improvements** or **report broken links** by opening an issue.  
+- 🚀 **Contribute new notes** or updates by raising a pull request.
 
-Lecture Notes
+---
 
-Important Questions
+## 🙌 **Acknowledgments**
 
-Reference Material
+All credits to the **dedicated efforts of students, faculty, and academic groups** who contributed to the preparation of these notes.
 
-Exam Preparation Guides
+**Special thanks to:**
+- Faculty of the **ECE Department, RVCE**  
+- Peer groups and study circles  
 
-🤝 How You Can Contribute
-📥 Download and use these notes for your studies.
+---
 
-✍️ Suggest improvements or report broken links by opening an issue.
+## ✍️ **Maintained By**
 
-🚀 Contribute new notes or updates by raising a pull request.
+**Sachin Deshik**  
+🎓 **Student**, Department of Electronics and Communication Engineering  
+🏛️ **R.V. College of Engineering (RVCE), Bengaluru**  
+📧 **Email:** [nayakulasachindeshik@gmail.com](mailto:nayakulasachindeshik@gmail.com)  
 
-🙌 Acknowledgments
-All credits to the dedicated efforts of students, faculty, and academic groups who contributed to the preparation of these notes.
+---
 
-Special thanks to:
+_**"Sharing knowledge is the first step towards achieving greatness. Let's grow together!"**_  
 
-Faculty of ECE Department, RVCE
-
-Peer groups and study circles
-
-✍️ Maintained By
-Sachin Deshik
-🎓 Student, Department of Electronics and Communication Engineering
-🏛️ R.V. College of Engineering (RVCE), Bengaluru
-📧 Email: nayakulasachindeshik@gmail.com
-
-"Sharing knowledge is the first step towards achieving greatness. Let's grow together!"
-
-🚀 Let's ace ECE together!
+🚀 **Let's ace ECE together!**  
