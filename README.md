@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/RVCE%202021%20SCHEME%20notes.png" alt="RVCE ECE 2021 Scheme Notes Banner" style="width:80%; height:auto;">
+</p>
+
 # 📚 **RVCE ECE 2021 Scheme Notes**
 
 Complete notes and resources for **Electronics and Communication Engineering (ECE)** students (**2021 Scheme**) at **R.V. College of Engineering, Bengaluru**.
