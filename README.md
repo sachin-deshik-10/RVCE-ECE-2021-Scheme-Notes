@@ -26,14 +26,14 @@ Additionally, you can find:
 
 ## 📋 **Contents Covered**
 
-- 🧮 **Mathematics (I, II, III)**  
+- 🧮 **Mathematics (III, IV)**  
 - 📡 **Electronic Devices & Communication Systems**  
 - 🔥 **Digital System Design**  
 - 🔄 **Signals and Systems**  
 - 🖥️ **Microcontrollers and Embedded Systems**  
 - 🛠️ **VLSI Design**  
 - 🌐 **Computer Networks**  
-- ⚡ **Power Electronics**  
+- ⚡ **Deep Learning**  
 - 💻 **Machine Learning & AI Basics**  
 - ➕ ...and many more **core and elective subjects!**
 
